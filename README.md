@@ -36,6 +36,20 @@ Text:Play("Pulse", { Strength = 0.1 })
 | [Extending the engine](docs/extending.md) | Custom effects, presets and sprite renderers |
 | [Performance and configuration](docs/performance.md) | Settings, optimization and limitations |
 
+## Tutorials and deeper reference
+
+| Guide | Description |
+| --- | --- |
+| [Practical recipes](docs/recipes.md) | Dialogues, rewards, interactive buttons and audio timing |
+| [Cinematic credits](docs/credits.md) | Complete credit-roll API and customization |
+| [Troubleshooting](docs/troubleshooting.md) | Common integration mistakes and solutions |
+| [Effect parameter reference](docs/effect-parameters.md) | Defaults and tuning examples |
+| [Release notes](CHANGELOG.md) | What's new in 3.0 |
+
+## Video showcase
+
+[Watch the cinematic dialogue showcase on YouTube](https://youtu.be/D4c7-PdwwSI) · [Original showcase on X](https://x.com/godinfeimous/status/2122646214344589649)
+
 ## Compatibility
 
 TextLabel, TextButton and TextBox in ScreenGui, SurfaceGui or BillboardGui. Client-side UI animation is recommended.
