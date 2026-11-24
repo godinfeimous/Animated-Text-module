@@ -272,6 +272,8 @@ For automatic registration, create a ModuleScript named after the effect inside 
 - Check Studio Output if an effect fails; the engine stops the failing animation without stopping the others.
 - Inspect effect metadata with AnimatedText.GetInfo("NeonWave", "en").
 
+For resource ownership, event connections and cleanup callbacks, see [Memory management for custom effects](memory-management.md#custom-effects-and-external-resources).
+
 You now have the building blocks to design your own animation library.
 
 [← Back to documentation](../README.md) · [Next: custom renderers and sprite fonts →](extending.md)

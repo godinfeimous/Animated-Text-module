@@ -25,3 +25,7 @@ print(AT.GetInfo("Typewriter", "en"))
 ```
 
 When reporting a problem, include the module version, the minimal reproduction script, the effect name and configuration, relevant UI properties, and any Studio Output errors. Never share private credentials or the purchased module publicly.
+
+## Memory growth or accumulating animations
+
+Use the [memory management and stress-testing guide](memory-management.md). Inspect active handles, verify that temporary text objects are destroyed, and check for external event connections and tasks that retain references. A warmed pool or cache can retain memory without being a leak.

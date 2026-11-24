@@ -84,6 +84,7 @@ Your custom effect automatically supports selection, layering, blending, playbac
 | [Audio & karaoke](docs/audio.md) | [Custom effect tutorial](docs/custom-effects.md) |
 | [Cinematic credits](docs/credits.md) | [Custom renderers & sprite fonts](docs/extending.md) |
 | [Troubleshooting](docs/troubleshooting.md) | [Performance & configuration](docs/performance.md) |
+| [Profiling & stress tests](docs/memory-management.md#stress-test) | [Memory management & leak prevention](docs/memory-management.md) |
 
 ## Built for creative projects
 
