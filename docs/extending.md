@@ -4,6 +4,8 @@
 
 ## Custom effects
 
+New to effect development? Follow the [step-by-step custom effect tutorial](custom-effects.md) first.
+
 Effects write to independent modifier states instead of mutating GUI instances. This makes layering, weight and fades work consistently.
 
 ```lua
