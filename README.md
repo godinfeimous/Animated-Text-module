@@ -6,9 +6,7 @@
 
 **The advanced text animation engine for Roblox Studio.**
 
-[![Version](https://img.shields.io/badge/Version-3.0.0-8b5cf6?style=flat-square)](CHANGELOG.md)
-[![Platform](https://img.shields.io/badge/Platform-Roblox-171717?style=flat-square)](#compatibility)
-[![Language](https://img.shields.io/badge/Luau-Strict%20Typing-00a2ff?style=flat-square)](docs/api.md)
+[**v3.0.0**](CHANGELOG.md) · [**Roblox Studio**](#compatibility) · [**Strictly typed Luau**](docs/api.md)
 
 **56 effects · 77 presets · 10 karaoke modes**
 
